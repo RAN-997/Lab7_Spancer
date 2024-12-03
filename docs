@@ -1,1 +1,6 @@
+docs/assets/css/style.scss
+---
+---
+@import "{{ site.theme }}";
 
+// Your custom styles can go here
